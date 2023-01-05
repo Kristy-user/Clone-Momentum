@@ -1,3 +1,3 @@
 # Clone-Momentum
 
-https://kristy-user.github.io/clone-momentum/
+https://kristy-user.github.io/Clone-Momentum/
